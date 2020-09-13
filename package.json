@@ -1,0 +1,17 @@
+{
+  "name": "cra-template-tanabee",
+  "version": "1.0.0",
+  "keywords": ["react", "create-react-app", "template", "material-ui"],
+  "description": "A template for Create React App",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanabee/cra-template-tanabee",
+    "directory": "cra-template-tanabee"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": ["template", "template.json"]
+}

@@ -1,0 +1,19 @@
+{
+  "package": {
+    "dependencies": {
+      "@material-ui/core": "^4.11.0",
+      "@material-ui/icons": "^4.9.1",
+      "@material-ui/lab": "^4.0.0-alpha.56",
+      "husky": "^4.3.0",
+      "lint-staged": "^10.3.0"
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "lint-staged"
+      }
+    },
+    "lint-staged": {
+      "*.js": ["eslint --max-warnings=0"]
+    }
+  }
+}
