@@ -1,6 +1,6 @@
 {
   "name": "cra-template-tanabee",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": ["react", "create-react-app", "template", "material-ui"],
   "description": "A template for Create React App",
   "main": "template.json",
